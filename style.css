@@ -57,8 +57,9 @@ input[type=submit] {
 {
   font-size: 60px;
   position: absolute;
-  top: 100px;
-  left: 30px;
+  top: 50px;
+  left: 10px;
+  width: 90%;
   border-style: none;
 
 }
