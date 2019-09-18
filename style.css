@@ -1,8 +1,36 @@
 body {
 background: #DD7FD3;
 }
+#title {
+  
+}
+#email {
+  margin: 0;
+     position: absolute;
+     top: 50%;
+     left: 40%;
+     margin-right: -50%;
+}
+#phone
+{
+  margin: 0;
+     position: absolute;
+     top: 45%;
+     left: 40%;
+     margin-right: -50%;
+}
+#dateOfBirth {
+  margin: 0;
+     position: absolute;
+     top: 40%;
+     left: 40%;
+     margin-right: -50%;
+}
 
-@media (min-width: 400px) and (max-width: 600px){
-.everything 
+#everything {
+  display: flex;
+  flex-wrap: wrap
+}
+@media only screen and (min-width: 400px){
 
 }
